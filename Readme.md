@@ -1,5 +1,6 @@
 # Movie-TvInfoApp
 
+React Native App with Movie and Tv Show Information.
 
 # Screenshots
 
