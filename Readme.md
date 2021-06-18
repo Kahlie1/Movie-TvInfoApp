@@ -2,6 +2,14 @@
 
 React Native App with Movie and Tv Show Information.
 
+# API
+
+[The Movie Database API](https://developers.themoviedb.org/3/getting-started)
+
+# Demo (Link to APK)
+
+[APK](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40kahlie/iosTest-09debbf4817242d3a4dd52baee7972b6-signed.apk)
+
 # Screenshots
 
 Movies Home Screen
